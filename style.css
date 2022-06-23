@@ -45,13 +45,13 @@ body, html {
   }
   
   .link:hover{
-      color: #3f1212;
+      color: #33a9c7;
   }
   
   
   
   #active {
-    color: #701e1e;
+    color: #33a9c7;
           }
   
   #active:hover{

@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+
+  nav {
+    padding: 0px;
+    overflow: hidden; 
+    width: 100%;
+  }
+  
+  
+  nav ul {
+    margin: 0px;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+  }
+  
+  
+  nav li{
+    display: inline-block;
+    padding: 15px;
+    font-family: 'Lexend', serif;
+    font-size: 18px;
+   margin-right: 60px;
+  }
+  
+  
+   .link{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+   font-family: 'Lexend', 'Cormorant Garamond', serif;
+     font-size: 17px;
+  }
+  
+  .link:hover{
+      color: #3f1212;
+  }
+  
+  
+  
+  #active {
+    color: #701e1e;
+          }
+  
+  #active:hover{
+    color: white;
+  }
